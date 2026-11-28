@@ -96,6 +96,7 @@ nest-asyncio2==1.7.4
 notebook==7.6.5
 notebook_shim==0.2.4
 numpy==2.5.5
+nvidia-nccl-cu13==2.32.6
 opentelemetry-api==1.45.2
 opentelemetry-proto==1.45.2
 opentelemetry-sdk==1.45.2
@@ -166,5 +167,6 @@ webencodings==0.6.1
 websocket-client==1.9.2
 Werkzeug==3.1.9
 widgetsnbextension==4.0.16
+xgboost==3.4.1
 yarl==1.25.1
 zipp==4.1.2
